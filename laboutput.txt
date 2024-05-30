@@ -1,0 +1,131 @@
+test_0 (__main__.lab3a)
+[Lab 3] - [Investigation 1] - [Part 4] - Functions - Test for file creation: ./lab3a.py ... ok
+test_1 (__main__.lab3a)
+[Lab 3] - [Investigation 1] - [Part 4] - Functions - Test for errors running: ./lab3a.py ... ok
+test_2 (__main__.lab3a)
+[Lab 3] - [Investigation 1] - [Part 4] - Functions - Test for correct shebang line: ./lab3a.py ... ok
+test_4_function_return_text_value (__main__.lab3a)
+[Lab 3] - [Investigation 1] - [Part 4] - Functions - function print_out_text() has correct output ... ok
+test_5_function_return_number_value (__main__.lab3a)
+[Lab 3] - [Investigation 1] - [Part 4] - Functions - function print_out_text() has correct output ... ok
+test_0 (__main__.lab3b)
+[Lab 3] - [Investigation 2] - [Part 1] - Functions - Test for file creation: ./lab3b.py ... ok
+test_1 (__main__.lab3b)
+[Lab 3] - [Investigation 2] - [Part 1] - Functions - Test for errors running: ./lab3b.py ... ok
+test_2 (__main__.lab3b)
+[Lab 3] - [Investigation 2] - [Part 1] - Functions - Test for correct shebang line: ./lab3b.py ... ok
+test_4_function_sum (__main__.lab3b)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments - function sum_numbers() fails without 2 arguments ... ok
+test_5_function_subtract (__main__.lab3b)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments - function subtract_numbers() fails without 2 arguments ... ok
+test_6_function_multiply (__main__.lab3b)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments - function multiply_numbers() fails without 2 arguments ... ok
+test_7_function_sum_output (__main__.lab3b)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments - function add_numbers() adds correctly ... ok
+test_8_function_subtract_output (__main__.lab3b)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments - function subtract_numbers() subtracts correctly ... ok
+test_9_function_multiply_output (__main__.lab3b)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments - function multiply_numbers() multiplies correctly ... ok
+test_0 (__main__.lab3c)
+[Lab 3] - [Investigation 2] - [Part 1] - Functions - Test for file creation: ./lab3c.py ... ok
+test_1 (__main__.lab3c)
+[Lab 3] - [Investigation 2] - [Part 1] - Functions - Test for errors running: ./lab3c.py ... ok
+test_2 (__main__.lab3c)
+[Lab 3] - [Investigation 2] - [Part 1] - Functions - Test for correct shebang line: ./lab3X.py ... ok
+test_4_function_sum (__main__.lab3c)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() fails with 0 arguments ... ok
+test_5_function_subtract (__main__.lab3c)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() fails with 1 arguments ... ok
+test_6_function_multiply (__main__.lab3c)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() fails with 2 arguments ... ok
+test_7_function_sum_output (__main__.lab3c)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() adds correctly test 1 ... ok
+test_8_function_subtract_output (__main__.lab3c)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() subtracts correctly test 1 ... ok
+test_9_function_multiply_output (__main__.lab3c)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() multiplies correctly test 1 ... ok
+test_a_function_sum_output (__main__.lab3c)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() adds correctly test 2 ... ok
+test_b_function_subtract_output (__main__.lab3c)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() subtracts correctly test 2 ... ok
+test_c_function_multiply_output (__main__.lab3c)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() multiplies correctly test 2 ... ok
+test_d_function_multiply_output (__main__.lab3c)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() fails with division ... ok
+test_0 (__main__.lab3d)
+[Lab 3] - [Investigation 2] - [Part 2] - Functions - Test for file creation: ./lab3d.py ... ok
+test_a (__main__.lab3d)
+[Lab 3] - [Investigation 2] - [Part 2] - Functions - Test for errors running: ./lab3d.py ... ok
+test_a1 (__main__.lab3d)
+[Lab 3] - [Investigation 2] - [Part 2] - Functions - Test for correct shebang line: ./lab3d.py ... ok
+test_a_function_free_space (__main__.lab3d)
+[Lab 3] - [Investigation 2] - [Part 2] - functions & subprocess - Test function succeeds with 0 arguments ... /usr/lib64/python3.6/subprocess.py:786: ResourceWarning: subprocess 157535 is still running
+  ResourceWarning, source=self)
+/usr/lib64/python3.6/subprocess.py:786: ResourceWarning: subprocess 157536 is still running
+  ResourceWarning, source=self)
+ok
+test_b_function_correct_output_free_space (__main__.lab3d)
+[Lab 3] - [Investigation 2] - [Part 2] - functions & subprocess - Test output shows free space of root ... /usr/lib64/python3.6/subprocess.py:786: ResourceWarning: subprocess 157542 is still running
+  ResourceWarning, source=self)
+/usr/lib64/python3.6/subprocess.py:786: ResourceWarning: subprocess 157543 is still running
+  ResourceWarning, source=self)
+/usr/lib64/python3.6/subprocess.py:786: ResourceWarning: subprocess 157545 is still running
+  ResourceWarning, source=self)
+/usr/lib64/python3.6/subprocess.py:786: ResourceWarning: subprocess 157546 is still running
+  ResourceWarning, source=self)
+ok
+test_c_function_decode_free_space (__main__.lab3d)
+[Lab 3] - [Investigation 2] - [Part 2] - functions & subprocess - decode to utf-8 with string.decode('utf-8') successfully ... /usr/lib64/python3.6/subprocess.py:786: ResourceWarning: subprocess 157552 is still running
+  ResourceWarning, source=self)
+/usr/lib64/python3.6/subprocess.py:786: ResourceWarning: subprocess 157553 is still running
+  ResourceWarning, source=self)
+ok
+test_d_function_strip_free_space (__main__.lab3d)
+[Lab 3] - [Investigation 2] - [Part 2] - functions & subprocess - strip the new line character with string.strip() successfully ... /usr/lib64/python3.6/subprocess.py:786: ResourceWarning: subprocess 157559 is still running
+  ResourceWarning, source=self)
+/usr/lib64/python3.6/subprocess.py:786: ResourceWarning: subprocess 157560 is still running
+  ResourceWarning, source=self)
+ok
+test_0 (__main__.lab3e)
+[Lab 3] - [Investigation 3] - [Part 1] - Functions - Test for file creation: ./lab3e.py ... ok
+test_a (__main__.lab3e)
+[Lab 3] - [Investigation 3] - [Part 1] - Functions - Test for errors running: ./lab3e.py ... ok
+test_a1 (__main__.lab3e)
+[Lab 3] - [Investigation 3] - [Part 1] - Functions - Test for correct shebang line: ./lab3X.py ... ok
+test_a_function_list (__main__.lab3e)
+[Lab 3] - [Investigation 3] - [Part 1] - functions & lists - print first item in list ... ok
+test_b_function_first (__main__.lab3e)
+[Lab 3] - [Investigation 3] - [Part 1] - functions & lists - print first item in list ... ok
+test_c_function_first_and_last (__main__.lab3e)
+[Lab 3] - [Investigation 3] - [Part 1] - functions & lists - print last item in list ... ok
+test_d_function_second_and_third (__main__.lab3e)
+[Lab 3] - [Investigation 3] - [Part 1] - functions & lists - print last item in list ... ok
+test_0 (__main__.lab3f)
+[Lab 3] - [Investigation 3] - [Part 3] - functions & lists & for loops - Test for file creation: ./lab3f.py ... ok
+test_a (__main__.lab3f)
+[Lab 3] - [Investigation 3] - [Part 3] - functions & lists & for loops - Test for errors running: ./lab3f.py ... ok
+test_a1 (__main__.lab3f)
+[Lab 3] - [Investigation 3] - [Part 3] - functions & lists & for loops - Test for correct shebang line: ./lab3f.py ... ok
+test_b_function_add_item_to_list (__main__.lab3f)
+[Lab 3] - [Investigation 3] - [Part 3] - functions & lists & for loops - check for correct items in list ... ok
+test_c_function_add_item_to_list (__main__.lab3f)
+[Lab 3] - [Investigation 3] - [Part 3] - functions & lists & for loops - check for correct items in list ... ok
+test_d_function_remove_items_from_list (__main__.lab3f)
+[Lab 3] - [Investigation 3] - [Part 3] - functions & lists & for loops - check for correct items in list ... ok
+test_e_function_remove_items_from_list (__main__.lab3f)
+[Lab 3] - [Investigation 3] - [Part 3] - functions & lists & for loops - check for correct items in list ... ok
+
+----------------------------------------------------------------------
+Ran 48 tests in 0.366s
+
+OK
+OPS445 Lab Report - System Information for running ./CheckLab3.py
+=================================================================
+    User login name: ashahi6
+    Linux system name: mtrx-node04pd.dcm.senecacollege.ca
+    Python executable: /usr/bin/python3
+    Python version: 368
+    OS Platform: linux
+    Working Directory: /home/ashahi6/ops445/lab3/lab-3-111106225-myseneca
+    Start at: Thu May 30 19:16:10 2024
+=================================================================
